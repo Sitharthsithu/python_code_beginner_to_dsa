@@ -1,68 +1,56 @@
-# 🐍 Python Code: Beginner to DSA 🚀
+<h1 align="center">🧠 Python Code Vault: Beginner ➡️ DSA Mastery 🚀</h1>
 
-Welcome to **`python_code_beginner_to_dsa`**, a curated collection of Python programs ranging from **absolute beginner level to intermediate DSA (Data Structures and Algorithms)**!
-
-> 📘 Perfect for students, self-learners, and interview preparation.
-
----
-
-## 📂 What's Inside?
-
-This repo contains **50+ Python scripts** categorized by topic. Here's a sample breakdown:
-
-### ✅ Basics & Logic Building
-- `hello.py` — First Python script
-- `power in function.py`
-- `reverse the sentence.py`
-- `permutation.py`
-- `sentence's longest odd.py`
-
-### 🔁 Loops & Patterns
-- `triangle.py`
-- `hollow triangel.py`
-- `prymaid.py`
-- `prymid inverted.py`
-
-### 📊 Sorting Algorithms
-- `insertion sort.py`
-- `insertion sort descending order.py`
-- `selectionsort.py`
-- `merge sort.py`
-
-### 🔍 Searching & Arrays
-- `find peak element.py`
-- `kth element.py`
-- `search insert position.py`
-- `reverse at the particular part of the array.py`
-- `rotate the array left.py`
-
-### 🧠 Data Structures (DSA)
-- `linkedlist.py`
-- `single_linked_list.py`
-- `real_linked_list.py`
-- `ll1.py`, `ll2.py`
-- `binary tree.py`
-- `bst.py`
-
-### 💡 Coding Challenges & Patterns
-- `happy no.py`
-- `group anagrams.py`
-- `longest palindromic.py`
-- `valid parathesis.py`
-- `equlibrium.py`
-- `best time to buy and sell.py`
-- `product of array except self.py`
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Sitharthsithu/python_code_beginner_to_dsa?color=blue&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/Sitharthsithu/python_code_beginner_to_dsa?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/Sitharthsithu/python_code_beginner_to_dsa?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠 How to Use
+## 📘 About This Repository
+
+This is a curated collection of **50+ Python programs**, organized from basic scripting to complex DSA topics — perfect for:
+- 🧑‍🎓 Beginners learning Python
+- 🧠 Students mastering algorithms
+- 💼 Coding interview prep
+
+---
+
+## 🧱 Project Structure
+
+| Category                | Files & Topics Covered                                                                 |
+|------------------------|----------------------------------------------------------------------------------------|
+| 🔰 **Basics**             | `hello.py`, `add two list.py`, `power in function.py`, `reverse the sentence.py`        |
+| 🔁 **Loops & Patterns**    | `triangle.py`, `prymaid.py`, `hollow triangel.py`, `prymid inverted.py`                  |
+| 🧮 **Arrays & Logic**      | `0and1 count.py`, `rotate the array left.py`, `reverse at the particular part.py`, `median.py` |
+| 📊 **Sorting Algorithms** | `insertion sort.py`, `merge sort.py`, `selectionsort.py`, `insertion sort descending.py` |
+| 🔍 **Searching & Misc**   | `find peak element.py`, `search insert position.py`, `kth element.py`, `misssing element.py` |
+| 🌳 **Data Structures**     | `linkedlist.py`, `single_linked_list.py`, `real_linked_list.py`, `bst.py`, `binary tree.py` |
+| 💡 **Coding Challenges**  | `group anagrams.py`, `happy no.py`, `longest palindromic.py`, `equlibrium.py`, `valid parathesis.py` |
+
+> ✅ Each file is independent. You can run it directly and tweak values to understand the logic.
+
+---
+
+## 🔥 Highlighted Programs
+
+- 🔐 `secure file sharing system.py` – Peer-to-peer syncing over TCP  
+- 🌞 `solar panel optimizer.py` – ML + IoT motor controller  
+- 💓 `emotion detection via GSR.py` – ML-based bio-signal classifier  
+- 📊 `student CGPA viewer.py` – MySQL-integrated Python search/filter app  
+- 💼 `job tracker Django.py` – Django-based job status tracker
+
+---
+
+## 🧠 How to Run
 
 ```bash
-# Clone the repository
+# Clone this repository
 git clone https://github.com/Sitharthsithu/python_code_beginner_to_dsa
 
-# Navigate into the project folder
+# Navigate into the folder
 cd python_code_beginner_to_dsa
 
 # Run any Python file
-python3 <filename>.py
+python filename.py
